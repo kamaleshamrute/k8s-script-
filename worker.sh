@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Setup for Control Plane (Master) servers
+# Setup for wroker nodes servers
 
 # disable swap
 
